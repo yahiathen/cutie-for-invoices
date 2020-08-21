@@ -1,0 +1,26 @@
+<annotation>
+	<folder>large-receipt-image-dataset-SRD</folder>
+	<filename>1068-receipt.jpg</filename>
+	<path>C:\Users\Yahiathen ABBACHE\Desktop\large-receipt-image-dataset-SRD\1068-receipt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>348</width>
+		<height>348</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>total</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>305</ymin>
+			<xmax>318</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

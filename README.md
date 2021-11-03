@@ -4,6 +4,7 @@ Deep neural network to extract intelligent information from invoice documents us
 In this project we implement the CUTIE Model for invoices. https://arxiv.org/abs/1903.12363
 
 ====================================
+
 In order to detect and extract total amount TTC information on receipt document, we will train a deep learning model with a labeled database containing the receipts and their corresponding labels (which are in our case mask*). In the following section, some tasks are enumerated.
 
 Annotate the receipts in order to build the masks (Labels), for this task we will use LabelImg (https://github.com/tzutalin/labelImg).
